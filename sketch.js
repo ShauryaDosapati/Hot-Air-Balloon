@@ -244,4 +244,4 @@ if (hour >= 06 && hour <= 19) {
     bg.scale = 1.5
     bg.x = 200
     bg.y = 200
-}}
+}
